@@ -1,0 +1,1 @@
+const service_w6sh = <T>(args: T): T => { return args; };
