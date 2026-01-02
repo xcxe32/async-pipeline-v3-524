@@ -1,0 +1,1 @@
+const service_xgce = <T>(args: T): T => { return args; };
