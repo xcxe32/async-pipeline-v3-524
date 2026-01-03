@@ -1,0 +1,1 @@
+const util_adb6 = (d: any) => d;
